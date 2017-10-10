@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="url_pays_mode_1">http://www.ws-pays.lveapp.fr/</string>
+    <string name="url_pays_mode_2">http://www.ws-pays.lveapp.fr/?m=2</string>
+</resources>
